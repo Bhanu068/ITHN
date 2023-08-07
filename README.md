@@ -59,4 +59,4 @@ Run `bash run_mimic_cxr.sh` to train a model on the MIMIC-CXR data.
 
 ## Acknowledgment
 
-This GitHub repository is built upon the [R2GenCMN] (https://github.com/cuhksz-nlp/R2GenCMN) repository. We would like to thank the authors for sharing their code publicly.
+This GitHub repository is built upon the [R2GenCMN](https://github.com/cuhksz-nlp/R2GenCMN) repository. We would like to thank the authors for sharing their code publicly.
