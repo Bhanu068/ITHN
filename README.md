@@ -18,7 +18,8 @@ bash setup.sh
 ## Citations
 
 If you use or extend our work, please cite our paper.
-```
+
+```bibtex
 @inproceedings{voutharoja2023ITHN,
     title = "Automatic Radiology Report Generation by Learning with Increasingly Hard Negatives",
     author = "Voutharoja, Bhanu Prakash and
