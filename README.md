@@ -22,9 +22,7 @@ If you use or extend our work, please cite our paper.
 ```bibtex
 @inproceedings{voutharoja2023ITHN,
     title = "Automatic Radiology Report Generation by Learning with Increasingly Hard Negatives",
-    author = "Voutharoja, Bhanu Prakash and
-      Wang, Lei  and
-      Zhou, Luping,
+    author = "Voutharoja, Bhanu Prakash and Wang, Lei  and Zhou, Luping,
     booktitle="26th European Conference on Artificial Intelligence ECAI 2023",
     year="2023"
 }
