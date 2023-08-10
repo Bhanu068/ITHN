@@ -24,9 +24,8 @@ If you use or extend our work, please cite our paper.
     author = "Voutharoja, Bhanu Prakash and
       Wang, Lei  and
       Zhou, Luping,
-    booktitle="Document Analysis and Recognition -- ICDAR 2023",
-    year="2023",
-    publisher="Springer International Publishing"
+    booktitle="26th European Conference on Artificial Intelligence ECAI 2023",
+    year="2023"
 }
 ```
 
@@ -40,7 +39,7 @@ pip install -r requirements.txt
 
 
 ## Download ITHN Model
-You can download the models we trained for each dataset from [here](https://github.com/cuhksz-nlp/R2GenCMN/blob/main/data/r2gencmn.md).
+You can download the models we trained for each dataset from [here](https://drive.google.com/drive/folders/1cLuEET1QPO3qEDKEbw2nhVZm_arIeRnC?usp=sharing).
 
 ## Datasets
 We use two datasets (IU X-Ray and MIMIC-CXR) in our paper.
