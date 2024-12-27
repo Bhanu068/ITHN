@@ -28,15 +28,6 @@ If you use or extend our work, please cite our paper.
 }
 ```
 
-## Requirements
-
-```
-conda create -n "ithn" python=3.7
-conda activate ithn
-pip install -r requirements.txt
-```
-
-
 ## Download ITHN Model
 You can download the models we trained for each dataset from [here](https://drive.google.com/drive/folders/1cLuEET1QPO3qEDKEbw2nhVZm_arIeRnC?usp=sharing).
 
